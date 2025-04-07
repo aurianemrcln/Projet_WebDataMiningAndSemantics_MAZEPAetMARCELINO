@@ -1,198 +1,198 @@
-http://example.org/Harry_Potter_and_the_Order_of_the_Phoenix_%28Harry_Potter%2C_%235%29	http://example.org/title	Harry Potter and the Order of the Phoenix (Harry Potter, #5)
-http://example.org/Harry_Potter_and_the_Order_of_the_Phoenix_%28Harry_Potter%2C_%235%29	http://example.org/contains_relation	http://example.org/Harry
-http://example.org/irreverent	http://example.org/is	http://example.org/work
-http://example.org/Animal_Farm	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://example.org/Book
-http://example.org/Twilight_%28The_Twilight_Saga%2C_%231%29	http://example.org/contains_relation	http://example.org/Edward
-http://example.org/they	http://example.org/known_as	http://example.org/Chronicles
-http://example.org/reader	http://example.org/ask_for	http://example.org/what
-http://example.org/Everdeen	http://example.org/regards	http://example.org/it
-http://example.org/twist	http://example.org/appears_at	http://example.org/Group
-http://example.org/To_Kill_a_Mockingbird	http://example.org/author	Harper Lee
-http://example.org/To_Kill_a_Mockingbird	http://example.org/contains_relation	http://example.org/story
-http://example.org/Harry_Potter_and_the_Order_of_the_Phoenix_%28Harry_Potter%2C_%235%29	http://example.org/author	J.K. Rowling
-http://example.org/To_Kill_a_Mockingbird	http://example.org/title	To Kill a Mockingbird
-http://example.org/that	http://example.org/weigh	http://example.org/survival
-http://example.org/life	http://example.org/changed_By	http://example.org/graveside
-http://example.org/To_Kill_a_Mockingbird	http://example.org/contains_relation	http://example.org/Compassionate
-http://example.org/The_Book_Thief	http://example.org/contains_relation	http://example.org/she
-http://example.org/The_Hunger_Games_%28The_Hunger_Games%2C_%231%29	http://example.org/contains_relation	http://example.org/she
-http://example.org/Harry_Potter_and_the_Order_of_the_Phoenix_%28Harry_Potter%2C_%235%29	http://example.org/contains_relation	http://example.org/summer
-http://example.org/he	http://example.org/do	http://example.org/something
-http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/contains_relation	http://example.org/they
-http://example.org/Winning	http://example.org/means	http://example.org/fame
-http://example.org/Pride	http://example.org/remained	http://example.org/one
-http://example.org/It	http://example.org/is	http://example.org/1939
-http://example.org/that	http://example.org/records_to	http://example.org/totalitarianism
-http://example.org/Animal_Farm	http://example.org/author	George Orwell
-http://example.org/himself	http://example.org/caught_in	http://example.org/plot
-http://example.org/The_Book_Thief	http://example.org/contains_relation	http://example.org/these
-http://example.org/J.R.R._Tolkien_4-Book_Boxed_Set%3A_The_Hobbit_and_The_Lord_of_the_Rings	http://example.org/contains_relation	http://example.org/set
-http://example.org/Animal_Farm	http://example.org/contains_relation	http://example.org/it
-http://example.org/The_Book_Thief	http://example.org/contains_relation	http://example.org/family
-http://example.org/Zusak	http://example.org/given	http://example.org/one
 http://example.org/Zusak	http://example.org/given_In	http://example.org/writing
-http://example.org/Pride_and_Prejudice	http://example.org/contains_relation	http://example.org/characters
-http://example.org/that	http://example.org/records_from	http://example.org/revolution
-http://example.org/farm	http://example.org/taken_by	http://example.org/animals
-http://example.org/she	http://example.org/stealing	http://example.org/library
-http://example.org/Hazel	http://example.org/been	http://example.org/anything
-http://example.org/summer	http://example.org/is	http://example.org/worse
-http://example.org/Everdeen	http://example.org/regards_as	http://example.org/sentence
-http://example.org/she	http://example.org/stealing_from	http://example.org/burnings
-http://example.org/family	http://example.org/hides_in	http://example.org/basement
-http://example.org/Lord	http://example.org/tells_of	http://example.org/quest
-http://example.org/Journeys	http://example.org/ask_in	http://example.org/book
-http://example.org/Death	http://example.org/been	http://example.org/busier
-http://example.org/part	http://example.org/be	http://example.org/dominant
-http://example.org/The_Fault_in_Our_Stars	http://example.org/contains_relation	http://example.org/that
-http://example.org/The_Hunger_Games_%28The_Hunger_Games%2C_%231%29	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://example.org/Book
-http://example.org/Austen	http://example.org/called	http://example.org/work
-http://example.org/It	http://example.org/is	http://example.org/Handbook
-http://example.org/edition	http://example.org/presents	http://example.org/books
-http://example.org/I	http://example.org/was	http://example.org/positive
-http://example.org/that	http://example.org/weigh_against	http://example.org/love
-http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://example.org/Book
-http://example.org/that	http://example.org/speak_to	http://example.org/readers
-http://example.org/Dursleys	http://example.org/making_of	http://example.org/course
-http://example.org/The_Fault_in_Our_Stars	http://example.org/contains_relation	http://example.org/chapter
-http://example.org/Twilight_%28The_Twilight_Saga%2C_%231%29	http://example.org/contains_relation	http://example.org/I
-http://example.org/J.R.R._Tolkien_4-Book_Boxed_Set%3A_The_Hobbit_and_The_Lord_of_the_Rings	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://example.org/Book
-http://example.org/Twilight	http://example.org/is	http://example.org/story
-http://example.org/story	http://example.org/is	http://example.org/about
-http://example.org/that	http://example.org/bought	http://example.org/her
-http://example.org/To_Kill_a_Mockingbird	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://example.org/Book
-http://example.org/that	http://example.org/burns_with	http://example.org/intensity
-http://example.org/Animal_Farm	http://example.org/contains_relation	http://example.org/comedy
-http://example.org/it	http://example.org/is	http://example.org/clear
-http://example.org/Pride_and_Prejudice	http://example.org/contains_relation	http://example.org/Pride
-http://example.org/that	http://example.org/records	http://example.org/evolution
-http://example.org/The_Fault_in_Our_Stars	http://example.org/contains_relation	http://example.org/story
-http://example.org/The_Hunger_Games_%28The_Hunger_Games%2C_%231%29	http://example.org/contains_relation	http://example.org/Capitol
-http://example.org/family	http://example.org/hides	http://example.org/Jew
-http://example.org/Harry	http://example.org/enjoys	http://example.org/holidays
-http://example.org/Lord	http://example.org/tells	http://example.org/wizard
-http://example.org/Baggins	http://example.org/whisked_In	http://example.org/Hobbit
-http://example.org/The_Book_Thief	http://example.org/contains_relation	http://example.org/it
-http://example.org/Harry_Potter_and_the_Order_of_the_Phoenix_%28Harry_Potter%2C_%235%29	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://example.org/Book
-http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/contains_relation	http://example.org/books
-http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/contains_relation	http://example.org/Journeys
-http://example.org/magic	http://example.org/meets	http://example.org/reality
-http://example.org/Harry_Potter_and_the_Order_of_the_Phoenix_%28Harry_Potter%2C_%235%29	http://example.org/contains_relation	http://example.org/Dursleys
-http://example.org/The_Book_Thief	http://example.org/contains_relation	http://example.org/It
-http://example.org/J.R.R._Tolkien_4-Book_Boxed_Set%3A_The_Hobbit_and_The_Lord_of_the_Rings	http://example.org/contains_relation	http://example.org/Baggins
-http://example.org/Animal_Farm	http://example.org/contains_relation	http://example.org/stage
-http://example.org/Harry_Potter_and_the_Order_of_the_Phoenix_%28Harry_Potter%2C_%235%29	http://example.org/contains_relation	http://example.org/Potter
-http://example.org/Each	http://example.org/is	http://example.org/masterpiece
-http://example.org/Twilight_%28The_Twilight_Saga%2C_%231%29	http://example.org/title	Twilight (The Twilight Saga, #1)
-http://example.org/Animal_Farm	http://example.org/contains_relation	http://example.org/that
-http://example.org/story	http://example.org/claims	http://example.org/appeal
-http://example.org/Journeys	http://example.org/ask_for	http://example.org/what
-http://example.org/clash	http://example.org/is	http://example.org/performance
-http://example.org/Chronicles	http://example.org/transcended_For	http://example.org/years
-http://example.org/chapter	http://example.org/graced_with	http://example.org/illustration
-http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/contains_relation	http://example.org/result
-http://example.org/The_Book_Thief	http://example.org/contains_relation	http://example.org/Zusak
-http://example.org/The_Book_Thief	http://example.org/author	Markus Zusak
-http://example.org/Potter	http://example.org/is	http://example.org/about
-http://example.org/The_Book_Thief	http://example.org/contains_relation	http://example.org/Death
-http://example.org/country	http://example.org/holding	http://example.org/breath
-http://example.org/masterpiece	http://example.org/is	http://example.org/myth
-http://example.org/book	http://example.org/is	http://example.org/Lion
-http://example.org/The_Fault_in_Our_Stars	http://example.org/author	John Green
-http://example.org/J.R.R._Tolkien_4-Book_Boxed_Set%3A_The_Hobbit_and_The_Lord_of_the_Rings	http://example.org/contains_relation	http://example.org/himself
-http://example.org/Edward	http://example.org/was	http://example.org/vampire
-http://example.org/Compassionate	http://example.org/takes_to	http://example.org/innocence
-http://example.org/Harry	http://example.org/had	http://example.org/enough
-http://example.org/The_Book_Thief	http://example.org/contains_relation	http://example.org/life
-http://example.org/Twilight_%28The_Twilight_Saga%2C_%231%29	http://example.org/contains_relation	http://example.org/that
-http://example.org/Twilight_%28The_Twilight_Saga%2C_%231%29	http://example.org/contains_relation	http://example.org/Twilight
-http://example.org/story	http://example.org/claims_with	http://example.org/copies
-http://example.org/chapter	http://example.org/inscribed_upon	http://example.org/diagnosis
-http://example.org/that	http://example.org/rocked	http://example.org/it
-http://example.org/they	http://example.org/set_With	http://example.org/idealism
-http://example.org/Capitol	http://example.org/is	http://example.org/harsh
-http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/contains_relation	http://example.org/book
-http://example.org/that	http://example.org/thirsted_for	http://example.org/blood
-http://example.org/The_Book_Thief	http://example.org/contains_relation	http://example.org/that
-http://example.org/The_Fault_in_Our_Stars	http://example.org/title	The Fault in Our Stars
-http://example.org/The_Hunger_Games_%28The_Hunger_Games%2C_%231%29	http://example.org/contains_relation	http://example.org/that
-http://example.org/it	http://example.org/is	http://example.org/act
-http://example.org/Losing	http://example.org/means	http://example.org/death
-http://example.org/Chronicles	http://example.org/transcended	http://example.org/genre
-http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/contains_relation	http://example.org/that
-http://example.org/characters	http://example.org/dance	http://example.org/quadrille
-http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/title	The Chronicles of Narnia (The Chronicles of Narnia, #1-7)
-http://example.org/Animal_Farm	http://example.org/contains_relation	http://example.org/they
-http://example.org/scope	http://example.org/has	http://example.org/generations
-http://example.org/Twilight_%28The_Twilight_Saga%2C_%231%29	http://example.org/author	Stephenie Meyer
-http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/contains_relation	http://example.org/chapter
-http://example.org/J.R.R._Tolkien_4-Book_Boxed_Set%3A_The_Hobbit_and_The_Lord_of_the_Rings	http://example.org/author	J.R.R. Tolkien
-http://example.org/The_Hunger_Games_%28The_Hunger_Games%2C_%231%29	http://example.org/contains_relation	http://example.org/Winning
-http://example.org/The_Fault_in_Our_Stars	http://example.org/contains_relation	http://example.org/twist
-http://example.org/holidays	http://example.org/come_to	http://example.org/end
-http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/contains_relation	http://example.org/edition
-http://example.org/To_Kill_a_Mockingbird	http://example.org/contains_relation	http://example.org/it
-http://example.org/edition	http://example.org/presents_in	http://example.org/volume
-http://example.org/holidays	http://example.org/come_in	http://example.org/fashion
-http://example.org/I	http://example.org/was_in	http://example.org/love
-http://example.org/The_Book_Thief	http://example.org/contains_relation	http://example.org/title
-http://example.org/The_Hunger_Games_%28The_Hunger_Games%2C_%231%29	http://example.org/contains_relation	http://example.org/Katniss
-http://example.org/Pride	http://example.org/remained_Since	http://example.org/success
-http://example.org/Hazel	http://example.org/been_Despite	http://example.org/miracle
-http://example.org/Harry	http://example.org/is	http://example.org/about
-http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/contains_relation	http://example.org/reader
-http://example.org/Russia	http://example.org/seen_as	http://example.org/target
-http://example.org/The_Hunger_Games_%28The_Hunger_Games%2C_%231%29	http://example.org/title	The Hunger Games (The Hunger Games, #1)
-http://example.org/reader	http://example.org/ask_in	http://example.org/book
-http://example.org/books	http://example.org/presented_in	http://example.org/order
-http://example.org/it	http://example.org/published_in	http://example.org/1960
-http://example.org/Animal_Farm	http://example.org/title	Animal Farm
-http://example.org/Twilight	http://example.org/is	http://example.org/seductive
-http://example.org/Compassionate	http://example.org/takes_to	http://example.org/roots
-http://example.org/The_Fault_in_Our_Stars	http://example.org/contains_relation	http://example.org/irreverent
-http://example.org/set	http://example.org/contains	http://example.org/masterworks
-http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/contains_relation	http://example.org/Chronicles
-http://example.org/The_Fault_in_Our_Stars	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://example.org/Book
-http://example.org/Pride_and_Prejudice	http://example.org/contains_relation	http://example.org/Austen
-http://example.org/Pride_and_Prejudice	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://example.org/Book
-http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/author	C.S. Lewis
 http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/contains_relation	http://example.org/Each
-http://example.org/Katniss	http://example.org/been	http://example.org/close
-http://example.org/The_Hunger_Games_%28The_Hunger_Games%2C_%231%29	http://example.org/author	Suzanne Collins
-http://example.org/title	http://example.org/published_as	http://example.org/fiction
-http://example.org/these	http://example.org/are	http://example.org/times
-http://example.org/J.R.R._Tolkien_4-Book_Boxed_Set%3A_The_Hobbit_and_The_Lord_of_the_Rings	http://example.org/title	J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings
 http://example.org/Pride_and_Prejudice	http://example.org/contains_relation	http://example.org/clash
-http://example.org/stage	http://example.org/set_for	http://example.org/one
-http://example.org/she	http://example.org/stealing	http://example.org/books
-http://example.org/irreverent	http://example.org/is	http://example.org/Fault
-http://example.org/it	http://example.org/regarded_as	http://example.org/masterpiece
-http://example.org/result	http://example.org/is	http://example.org/world
-http://example.org/The_Hunger_Games_%28The_Hunger_Games%2C_%231%29	http://example.org/contains_relation	http://example.org/Losing
-http://example.org/Twilight_%28The_Twilight_Saga%2C_%231%29	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://example.org/Book
-http://example.org/she	http://example.org/picks	http://example.org/object
-http://example.org/The_Book_Thief	http://example.org/title	The Book Thief
-http://example.org/she	http://example.org/becomes	http://example.org/contender
-http://example.org/Compassionate	http://example.org/takes	http://example.org/readers
-http://example.org/Animal_Farm	http://example.org/contains_relation	http://example.org/Russia
-http://example.org/book	http://example.org/be	http://example.org/story
-http://example.org/Harry	http://example.org/enjoys_Unlike	http://example.org/schoolboys
-http://example.org/To_Kill_a_Mockingbird	http://example.org/contains_relation	http://example.org/book
-http://example.org/The_Hunger_Games_%28The_Hunger_Games%2C_%231%29	http://example.org/contains_relation	http://example.org/Everdeen
-http://example.org/The_Book_Thief	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://example.org/Book
-http://example.org/Harry_Potter_and_the_Order_of_the_Phoenix_%28Harry_Potter%2C_%235%29	http://example.org/contains_relation	http://example.org/holidays
-http://example.org/The_Fault_in_Our_Stars	http://example.org/contains_relation	http://example.org/Hazel
-http://example.org/J.R.R._Tolkien_4-Book_Boxed_Set%3A_The_Hobbit_and_The_Lord_of_the_Rings	http://example.org/contains_relation	http://example.org/masterpiece
-http://example.org/The_Book_Thief	http://example.org/contains_relation	http://example.org/country
-http://example.org/Harry_Potter_and_the_Order_of_the_Phoenix_%28Harry_Potter%2C_%235%29	http://example.org/contains_relation	http://example.org/he
-http://example.org/Animal_Farm	http://example.org/contains_relation	http://example.org/farm
-http://example.org/J.R.R._Tolkien_4-Book_Boxed_Set%3A_The_Hobbit_and_The_Lord_of_the_Rings	http://example.org/contains_relation	http://example.org/Lord
-http://example.org/Baggins	http://example.org/whisked_by	http://example.org/Gandalf
-http://example.org/To_Kill_a_Mockingbird	http://example.org/contains_relation	http://example.org/that
-http://example.org/Twilight_%28The_Twilight_Saga%2C_%231%29	http://example.org/contains_relation	http://example.org/part
-http://example.org/that	http://example.org/has	http://example.org/it
-http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/contains_relation	http://example.org/magic
-http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/contains_relation	http://example.org/scope
-http://example.org/Pride_and_Prejudice	http://example.org/title	Pride and Prejudice
-http://example.org/Pride_and_Prejudice	http://example.org/author	Jane Austen
+http://example.org/Capitol	http://example.org/is	http://example.org/harsh
+http://example.org/Everdeen	http://example.org/regards_as	http://example.org/sentence
+http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/contains_relation	http://example.org/book
+http://example.org/edition	http://example.org/presents	http://example.org/books
+http://example.org/that	http://example.org/records_to	http://example.org/totalitarianism
 http://example.org/comedy	http://example.org/have	http://example.org/meaning
+http://example.org/J.R.R._Tolkien_4-Book_Boxed_Set%3A_The_Hobbit_and_The_Lord_of_the_Rings	http://example.org/contains_relation	http://example.org/himself
+http://example.org/The_Hunger_Games_%28The_Hunger_Games%2C_%231%29	http://example.org/contains_relation	http://example.org/Losing
+http://example.org/Baggins	http://example.org/whisked_In	http://example.org/Hobbit
+http://example.org/The_Book_Thief	http://example.org/author	Markus Zusak
+http://example.org/she	http://example.org/stealing_from	http://example.org/burnings
+http://example.org/It	http://example.org/is	http://example.org/1939
+http://example.org/it	http://example.org/regarded_as	http://example.org/masterpiece
+http://example.org/he	http://example.org/do	http://example.org/something
+http://example.org/Harry_Potter_and_the_Order_of_the_Phoenix_%28Harry_Potter%2C_%235%29	http://example.org/title	Harry Potter and the Order of the Phoenix (Harry Potter, #5)
+http://example.org/Russia	http://example.org/seen_as	http://example.org/target
+http://example.org/Harry	http://example.org/enjoys_Unlike	http://example.org/schoolboys
+http://example.org/edition	http://example.org/presents_in	http://example.org/volume
+http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/contains_relation	http://example.org/books
+http://example.org/The_Book_Thief	http://example.org/contains_relation	http://example.org/Zusak
+http://example.org/Zusak	http://example.org/given	http://example.org/one
+http://example.org/Harry_Potter_and_the_Order_of_the_Phoenix_%28Harry_Potter%2C_%235%29	http://example.org/contains_relation	http://example.org/Harry
+http://example.org/The_Hunger_Games_%28The_Hunger_Games%2C_%231%29	http://example.org/contains_relation	http://example.org/Winning
+http://example.org/Pride_and_Prejudice	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://example.org/Book
+http://example.org/Animal_Farm	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://example.org/Book
+http://example.org/Twilight	http://example.org/is	http://example.org/seductive
+http://example.org/To_Kill_a_Mockingbird	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://example.org/Book
+http://example.org/Pride	http://example.org/remained	http://example.org/one
+http://example.org/family	http://example.org/hides_in	http://example.org/basement
+http://example.org/Edward	http://example.org/was	http://example.org/vampire
+http://example.org/they	http://example.org/known_as	http://example.org/Chronicles
+http://example.org/Animal_Farm	http://example.org/title	Animal Farm
+http://example.org/Animal_Farm	http://example.org/author	George Orwell
+http://example.org/part	http://example.org/be	http://example.org/dominant
+http://example.org/J.R.R._Tolkien_4-Book_Boxed_Set%3A_The_Hobbit_and_The_Lord_of_the_Rings	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://example.org/Book
+http://example.org/Twilight_%28The_Twilight_Saga%2C_%231%29	http://example.org/author	Stephenie Meyer
+http://example.org/Death	http://example.org/been	http://example.org/busier
+http://example.org/The_Hunger_Games_%28The_Hunger_Games%2C_%231%29	http://example.org/contains_relation	http://example.org/Everdeen
+http://example.org/it	http://example.org/is	http://example.org/act
+http://example.org/The_Book_Thief	http://example.org/contains_relation	http://example.org/title
+http://example.org/Twilight_%28The_Twilight_Saga%2C_%231%29	http://example.org/contains_relation	http://example.org/Twilight
+http://example.org/Harry_Potter_and_the_Order_of_the_Phoenix_%28Harry_Potter%2C_%235%29	http://example.org/contains_relation	http://example.org/summer
+http://example.org/characters	http://example.org/dance	http://example.org/quadrille
+http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/author	C.S. Lewis
+http://example.org/irreverent	http://example.org/is	http://example.org/work
+http://example.org/Pride_and_Prejudice	http://example.org/contains_relation	http://example.org/characters
+http://example.org/To_Kill_a_Mockingbird	http://example.org/contains_relation	http://example.org/it
+http://example.org/Animal_Farm	http://example.org/contains_relation	http://example.org/comedy
+http://example.org/The_Fault_in_Our_Stars	http://example.org/contains_relation	http://example.org/chapter
+http://example.org/Chronicles	http://example.org/transcended_For	http://example.org/years
+http://example.org/Harry_Potter_and_the_Order_of_the_Phoenix_%28Harry_Potter%2C_%235%29	http://example.org/author	J.K. Rowling
+http://example.org/The_Hunger_Games_%28The_Hunger_Games%2C_%231%29	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://example.org/Book
+http://example.org/family	http://example.org/hides	http://example.org/Jew
+http://example.org/Animal_Farm	http://example.org/contains_relation	http://example.org/it
+http://example.org/Pride_and_Prejudice	http://example.org/title	Pride and Prejudice
+http://example.org/Chronicles	http://example.org/transcended	http://example.org/genre
+http://example.org/twist	http://example.org/appears_at	http://example.org/Group
+http://example.org/these	http://example.org/are	http://example.org/times
+http://example.org/The_Book_Thief	http://example.org/contains_relation	http://example.org/it
+http://example.org/J.R.R._Tolkien_4-Book_Boxed_Set%3A_The_Hobbit_and_The_Lord_of_the_Rings	http://example.org/contains_relation	http://example.org/set
+http://example.org/Journeys	http://example.org/ask_for	http://example.org/what
+http://example.org/Twilight_%28The_Twilight_Saga%2C_%231%29	http://example.org/contains_relation	http://example.org/Edward
+http://example.org/it	http://example.org/published_in	http://example.org/1960
+http://example.org/that	http://example.org/weigh	http://example.org/survival
+http://example.org/The_Hunger_Games_%28The_Hunger_Games%2C_%231%29	http://example.org/contains_relation	http://example.org/Katniss
+http://example.org/chapter	http://example.org/graced_with	http://example.org/illustration
+http://example.org/The_Book_Thief	http://example.org/contains_relation	http://example.org/It
+http://example.org/she	http://example.org/picks	http://example.org/object
+http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/contains_relation	http://example.org/scope
+http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/contains_relation	http://example.org/reader
+http://example.org/Animal_Farm	http://example.org/contains_relation	http://example.org/they
+http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/contains_relation	http://example.org/Chronicles
+http://example.org/The_Fault_in_Our_Stars	http://example.org/contains_relation	http://example.org/irreverent
+http://example.org/The_Hunger_Games_%28The_Hunger_Games%2C_%231%29	http://example.org/title	The Hunger Games (The Hunger Games, #1)
+http://example.org/Pride	http://example.org/remained_Since	http://example.org/success
+http://example.org/J.R.R._Tolkien_4-Book_Boxed_Set%3A_The_Hobbit_and_The_Lord_of_the_Rings	http://example.org/title	J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings
+http://example.org/Everdeen	http://example.org/regards	http://example.org/it
+http://example.org/that	http://example.org/bought	http://example.org/her
+http://example.org/clash	http://example.org/is	http://example.org/performance
+http://example.org/Animal_Farm	http://example.org/contains_relation	http://example.org/Russia
+http://example.org/Harry_Potter_and_the_Order_of_the_Phoenix_%28Harry_Potter%2C_%235%29	http://example.org/contains_relation	http://example.org/holidays
+http://example.org/she	http://example.org/stealing	http://example.org/books
+http://example.org/that	http://example.org/thirsted_for	http://example.org/blood
+http://example.org/J.R.R._Tolkien_4-Book_Boxed_Set%3A_The_Hobbit_and_The_Lord_of_the_Rings	http://example.org/contains_relation	http://example.org/masterpiece
+http://example.org/holidays	http://example.org/come_to	http://example.org/end
+http://example.org/To_Kill_a_Mockingbird	http://example.org/contains_relation	http://example.org/story
+http://example.org/books	http://example.org/presented_in	http://example.org/order
+http://example.org/The_Book_Thief	http://example.org/contains_relation	http://example.org/life
+http://example.org/himself	http://example.org/caught_in	http://example.org/plot
+http://example.org/J.R.R._Tolkien_4-Book_Boxed_Set%3A_The_Hobbit_and_The_Lord_of_the_Rings	http://example.org/contains_relation	http://example.org/Lord
+http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/contains_relation	http://example.org/magic
+http://example.org/Journeys	http://example.org/ask_in	http://example.org/book
+http://example.org/Baggins	http://example.org/whisked_by	http://example.org/Gandalf
+http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/contains_relation	http://example.org/chapter
+http://example.org/To_Kill_a_Mockingbird	http://example.org/contains_relation	http://example.org/that
+http://example.org/Losing	http://example.org/means	http://example.org/death
+http://example.org/The_Book_Thief	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://example.org/Book
+http://example.org/magic	http://example.org/meets	http://example.org/reality
+http://example.org/book	http://example.org/is	http://example.org/Lion
+http://example.org/irreverent	http://example.org/is	http://example.org/Fault
+http://example.org/To_Kill_a_Mockingbird	http://example.org/author	Harper Lee
+http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/title	The Chronicles of Narnia (The Chronicles of Narnia, #1-7)
+http://example.org/Animal_Farm	http://example.org/contains_relation	http://example.org/that
+http://example.org/The_Book_Thief	http://example.org/title	The Book Thief
+http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/contains_relation	http://example.org/that
+http://example.org/The_Fault_in_Our_Stars	http://example.org/contains_relation	http://example.org/story
+http://example.org/title	http://example.org/published_as	http://example.org/fiction
+http://example.org/book	http://example.org/be	http://example.org/story
+http://example.org/The_Book_Thief	http://example.org/contains_relation	http://example.org/that
+http://example.org/reader	http://example.org/ask_for	http://example.org/what
+http://example.org/I	http://example.org/was_in	http://example.org/love
+http://example.org/Hazel	http://example.org/been	http://example.org/anything
+http://example.org/The_Fault_in_Our_Stars	http://example.org/contains_relation	http://example.org/that
+http://example.org/Animal_Farm	http://example.org/contains_relation	http://example.org/stage
+http://example.org/Harry_Potter_and_the_Order_of_the_Phoenix_%28Harry_Potter%2C_%235%29	http://example.org/contains_relation	http://example.org/Dursleys
+http://example.org/that	http://example.org/burns_with	http://example.org/intensity
+http://example.org/it	http://example.org/is	http://example.org/clear
+http://example.org/The_Hunger_Games_%28The_Hunger_Games%2C_%231%29	http://example.org/contains_relation	http://example.org/that
+http://example.org/they	http://example.org/set_With	http://example.org/idealism
+http://example.org/scope	http://example.org/has	http://example.org/generations
+http://example.org/I	http://example.org/was	http://example.org/positive
+http://example.org/J.R.R._Tolkien_4-Book_Boxed_Set%3A_The_Hobbit_and_The_Lord_of_the_Rings	http://example.org/author	J.R.R. Tolkien
+http://example.org/Harry	http://example.org/is	http://example.org/about
+http://example.org/she	http://example.org/becomes	http://example.org/contender
+http://example.org/Austen	http://example.org/called	http://example.org/work
+http://example.org/chapter	http://example.org/inscribed_upon	http://example.org/diagnosis
+http://example.org/that	http://example.org/records_from	http://example.org/revolution
+http://example.org/Hazel	http://example.org/been_Despite	http://example.org/miracle
+http://example.org/that	http://example.org/rocked	http://example.org/it
+http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/contains_relation	http://example.org/they
+http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/contains_relation	http://example.org/edition
+http://example.org/The_Fault_in_Our_Stars	http://example.org/author	John Green
+http://example.org/Animal_Farm	http://example.org/contains_relation	http://example.org/farm
+http://example.org/set	http://example.org/contains	http://example.org/masterworks
+http://example.org/Compassionate	http://example.org/takes_to	http://example.org/innocence
+http://example.org/The_Hunger_Games_%28The_Hunger_Games%2C_%231%29	http://example.org/author	Suzanne Collins
+http://example.org/Winning	http://example.org/means	http://example.org/fame
+http://example.org/Each	http://example.org/is	http://example.org/masterpiece
+http://example.org/The_Fault_in_Our_Stars	http://example.org/contains_relation	http://example.org/twist
+http://example.org/reader	http://example.org/ask_in	http://example.org/book
+http://example.org/result	http://example.org/is	http://example.org/world
+http://example.org/story	http://example.org/claims	http://example.org/appeal
+http://example.org/Compassionate	http://example.org/takes_to	http://example.org/roots
+http://example.org/Twilight_%28The_Twilight_Saga%2C_%231%29	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://example.org/Book
+http://example.org/Twilight_%28The_Twilight_Saga%2C_%231%29	http://example.org/contains_relation	http://example.org/part
+http://example.org/she	http://example.org/stealing	http://example.org/library
+http://example.org/The_Book_Thief	http://example.org/contains_relation	http://example.org/these
+http://example.org/The_Hunger_Games_%28The_Hunger_Games%2C_%231%29	http://example.org/contains_relation	http://example.org/she
+http://example.org/The_Fault_in_Our_Stars	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://example.org/Book
+http://example.org/The_Hunger_Games_%28The_Hunger_Games%2C_%231%29	http://example.org/contains_relation	http://example.org/Capitol
+http://example.org/Potter	http://example.org/is	http://example.org/about
+http://example.org/To_Kill_a_Mockingbird	http://example.org/contains_relation	http://example.org/Compassionate
+http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/contains_relation	http://example.org/result
+http://example.org/summer	http://example.org/is	http://example.org/worse
+http://example.org/Twilight_%28The_Twilight_Saga%2C_%231%29	http://example.org/contains_relation	http://example.org/that
+http://example.org/Harry	http://example.org/had	http://example.org/enough
+http://example.org/Harry_Potter_and_the_Order_of_the_Phoenix_%28Harry_Potter%2C_%235%29	http://example.org/contains_relation	http://example.org/Potter
+http://example.org/J.R.R._Tolkien_4-Book_Boxed_Set%3A_The_Hobbit_and_The_Lord_of_the_Rings	http://example.org/contains_relation	http://example.org/Baggins
+http://example.org/country	http://example.org/holding	http://example.org/breath
+http://example.org/life	http://example.org/changed_By	http://example.org/graveside
+http://example.org/that	http://example.org/records	http://example.org/evolution
+http://example.org/Pride_and_Prejudice	http://example.org/contains_relation	http://example.org/Austen
+http://example.org/To_Kill_a_Mockingbird	http://example.org/title	To Kill a Mockingbird
+http://example.org/stage	http://example.org/set_for	http://example.org/one
+http://example.org/It	http://example.org/is	http://example.org/Handbook
+http://example.org/that	http://example.org/has	http://example.org/it
+http://example.org/story	http://example.org/is	http://example.org/about
+http://example.org/Lord	http://example.org/tells_of	http://example.org/quest
+http://example.org/Harry_Potter_and_the_Order_of_the_Phoenix_%28Harry_Potter%2C_%235%29	http://example.org/contains_relation	http://example.org/he
+http://example.org/Dursleys	http://example.org/making_of	http://example.org/course
+http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://example.org/contains_relation	http://example.org/Journeys
+http://example.org/Twilight	http://example.org/is	http://example.org/story
+http://example.org/Compassionate	http://example.org/takes	http://example.org/readers
+http://example.org/farm	http://example.org/taken_by	http://example.org/animals
+http://example.org/The_Book_Thief	http://example.org/contains_relation	http://example.org/family
+http://example.org/Harry	http://example.org/enjoys	http://example.org/holidays
+http://example.org/Katniss	http://example.org/been	http://example.org/close
+http://example.org/that	http://example.org/speak_to	http://example.org/readers
+http://example.org/Pride_and_Prejudice	http://example.org/author	Jane Austen
+http://example.org/holidays	http://example.org/come_in	http://example.org/fashion
+http://example.org/The_Book_Thief	http://example.org/contains_relation	http://example.org/Death
+http://example.org/Twilight_%28The_Twilight_Saga%2C_%231%29	http://example.org/contains_relation	http://example.org/I
+http://example.org/Pride_and_Prejudice	http://example.org/contains_relation	http://example.org/Pride
+http://example.org/The_Fault_in_Our_Stars	http://example.org/contains_relation	http://example.org/Hazel
+http://example.org/The_Book_Thief	http://example.org/contains_relation	http://example.org/country
+http://example.org/Lord	http://example.org/tells	http://example.org/wizard
+http://example.org/that	http://example.org/weigh_against	http://example.org/love
+http://example.org/Harry_Potter_and_the_Order_of_the_Phoenix_%28Harry_Potter%2C_%235%29	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://example.org/Book
+http://example.org/The_Book_Thief	http://example.org/contains_relation	http://example.org/she
+http://example.org/The_Chronicles_of_Narnia_%28The_Chronicles_of_Narnia%2C_%231-7%29	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://example.org/Book
+http://example.org/To_Kill_a_Mockingbird	http://example.org/contains_relation	http://example.org/book
+http://example.org/The_Fault_in_Our_Stars	http://example.org/title	The Fault in Our Stars
+http://example.org/Twilight_%28The_Twilight_Saga%2C_%231%29	http://example.org/title	Twilight (The Twilight Saga, #1)
+http://example.org/story	http://example.org/claims_with	http://example.org/copies
+http://example.org/masterpiece	http://example.org/is	http://example.org/myth
